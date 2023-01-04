@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 📝 I write articles on [https://medium.com/@JananiBalasooriya](https://medium.com/@JananiBalasooriya)
+- 📝 I write articles on [medium](https://medium.com/@JananiBalasooriya)
 
 - 💬 Ask me about **Java, SQL, MERN**
 
