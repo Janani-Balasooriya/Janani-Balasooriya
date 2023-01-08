@@ -1,15 +1,11 @@
 <h1 align="center">Hi there👋, I'm Janani</h1>
 <h3 align="center">A software engineering undergraduate👩‍💻</h3>
 
-- 🔭 I’m currently working on [ZTM NASA Mission Control Project](https://github.com/Janani-Balasooriya/NASA-Project)
-
 - 🌱 I’m currently learning **MERN stack**
 
+- 🔭 I’m currently working on [ZTM NASA Mission Control Project](https://github.com/Janani-Balasooriya/NASA-Project)
+
 - 📝 I write articles on [medium](https://medium.com/@JananiBalasooriya)
-
-- 💬 Ask me about **Java, SQL, MERN**
-
-- 📫 How to reach me **balasooriya1022@gmail.com**
 
 - ⚡ Fun fact **I'm overthinking**
 
