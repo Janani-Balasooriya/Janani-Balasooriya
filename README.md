@@ -22,5 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janani-balasooriya&show_icons=true&locale=en" alt="janani-balasooriya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janani-balasooriya&" alt="janani-balasooriya" /></p>
 
