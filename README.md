@@ -1,9 +1,9 @@
 <h1 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Janani</h1>
 <h3 align="center">A software engineering undergraduate👩‍💻</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Flutter**
 
-- 🔭 I’m currently working on [ZTM NASA Mission Control Project](https://github.com/Janani-Balasooriya/NASA-Project)
+- 🔭 I’m currently working on a Full Stack Job Portal Web Application as a side project.
 
 - 📝 I write articles on [medium](https://medium.com/@JananiBalasooriya)
 
